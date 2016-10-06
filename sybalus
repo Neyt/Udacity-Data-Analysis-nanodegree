@@ -1,0 +1,52 @@
+PRE-REQUISITE KNOWLEDGE
+
+Students should have basic programming experience in Python, such as being comfortable implementing loops, conditional statements, and knowing when to use an array over a list. Any students lacking this prerequisite knowledge can take the first four lessons in Intro to Computer Science to acquire the necessary Python experience.
+MODULE 1
+Statistics
+Standard deviations, confidence intervals, z-scores, and t-tests
+
+Project: Test a Perceptual Phenomenon
+Design and implement your own hypothesis test for a version of the Stroop test
+
+Down Arrow
+MODULE 2
+Intro to Data Analysis
+NumPy arrays, pandas DataFrames, and vectorized operations
+
+Project: Investigating a Dataset
+Pose your own question about a dataset, investigate its contents and communicate your findings
+
+Down Arrow
+MODULE 3
+Data Extraction and Wrangling
+SQL, MongoDB, and assess data quality
+
+Project: OpenStreetMap Improvements
+Clean some OpenStreetMap data for a part of the world that you care about
+
+Down Arrow
+MODULE 4
+Exploratory Data Analysis
+R, investigate datasets, reshape data frames
+
+Project: Explore and Summarize Data
+Demonstrate your mastery of EDA by exploring the variables, patterns, and oddities within a dataset
+
+Down Arrow
+MODULE 5
+Machine Learning
+Naive Bayes, Support Vector Machines, F1 scores
+
+Project: Identify Fraud from Enron Email
+Build an algorithm to identify Enron employees who may have committed fraud
+
+Down Arrow
+MODULE 6
+Data Visualization
+HTML, CSS, D3.js, dimple.js
+
+Project: Storytelling with Data
+Choose a dataset and use popular visualization libraries to create your own interactive visualizations
+
+Down Arrow
+MODULE 7
