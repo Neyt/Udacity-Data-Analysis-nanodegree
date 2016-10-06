@@ -2,3 +2,24 @@
 
 P0: Analyze Bay Area Bike Share Data (Optional)3 HOURS
 You’ll download Anaconda and use a Jupyter Notebook to analyze bike rental data. It’s a great project to tackle during the first week in your Nanodegree to see if the program is a good fit for you!
+
+Installing Python
+For both this project, and continuing through the program, we’ll use Python to clean and analyze datasets. So before we can get started with the bike share data, you’ll need to install Python on your computer.
+
+We’ll do so using an Anaconda distribution, which comes with many popular Python packages for data analysis, as well as Jupyter Notebook. Some of these packages can be difficult to install otherwise, so we highly recommend installing Anaconda to make life easier. To do so, complete the following:
+
+Navigate to http://continuum.io/downloads in your browser.
+Install Python using the Anaconda distribution, which comes with Jupyter. Don't install Python 3.4 as the Nanodegree Program uses Python 2.7 throughout the courses and projects.
+On a PC, click the Windows icon and select "Windows 64-Bit Python 2.7 Graphical Installer". You can also select the 32-bit installer if you have a 32-bit machine. Then run the installer and follow the instructions on the screen.
+On Mac or Linux, follow the same process but select the appropriate installer for your platform.
+Opening the Jupyter Notebook
+As mentioned earlier, you’ll use an Jupyter Notebook to complete this project. When you’re done, you’ll submit an HTML version for feedback, so be sure to log your answers where directed!
+
+Download the Jupyter Notebook here.
+Open your Command Prompt (PC) or terminal (Mac or Linux).
+On a PC click the Start button and search for "Command Prompt".
+On a Mac type command + spacebar. Then, type "terminal" in the Spotlight Search. You can also search for "terminal" in finder.
+Navigate to the directory where you downloaded the Jupyter notebook file.
+On a PC you might type: cd C:\Users\username\Downloads\, replacing your username. Learn more about basic terminal commands.
+On Mac or Linux you might type: cd ~/Downloads. Learn more about basic terminal commands.
+Run the command jupyter notebook Bay_Area_Bike_Share_Analysis.ipynb in your terminal.
